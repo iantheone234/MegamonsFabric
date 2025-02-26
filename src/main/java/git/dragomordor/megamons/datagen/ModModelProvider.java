@@ -175,42 +175,42 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(MegamonsItems.CUT_VENUSAURITE, Models.GENERATED);
             // Gen 2
         itemModelGenerator.register(MegamonsItems.CUT_AMPHAROSITE, Models.GENERATED);
-        // TODO: Add Heracronite
-        // TODO: Add Houndoominite
+        itemModelGenerator.register(MegamonsItems.CUT_HERACRONITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_HOUNDOOMINITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_SCIZORITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_STEELIXITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_TYRANITARITE, Models.GENERATED);
             // Gen 3
-        // TODO: Add Absolite
-        // TODO: Add Aggronite
-        // TODO: Add Altarianite
+        itemModelGenerator.register(MegamonsItems.CUT_ABSOLITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_AGGRONITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_ALTARIANITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_BANETTITE, Models.GENERATED);
-        // TODO: Add Blazikenite
-        // TODO: Add Cameruptite
+        itemModelGenerator.register(MegamonsItems.CUT_BLAZIKENITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_CAMERUPTITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_GARDEVOIRITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_GLALITITE, Models.GENERATED);
-        // TODO: Add Latiasite
-        // TODO: Add Latiosite
+        itemModelGenerator.register(MegamonsItems.CUT_LATIASITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_LATIOSITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_MAWILITE, Models.GENERATED);
-        // TODO: Add Manechtite
-        // TODO: Add Medichamite
-        // TODO: Add Metagrossite
+        itemModelGenerator.register(MegamonsItems.CUT_MANECTITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_MEDICHAMITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_METAGROSSITE, Models.GENERATED);
         // TODO: Add Rayquazite
         itemModelGenerator.register(MegamonsItems.CUT_SABLENITE, Models.GENERATED);
-        // TODO: Add Salamencite
-        // TODO: Add Sceptilite
+        itemModelGenerator.register(MegamonsItems.CUT_SALAMENCITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_SCEPTILITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_SHARPEDONITE, Models.GENERATED);
-        // TODO: Add Swampertite
+        itemModelGenerator.register(MegamonsItems.CUT_SWAMPERTITE, Models.GENERATED);
         // Gen 4
-        // TODO: Add Abomasite
+        itemModelGenerator.register(MegamonsItems.CUT_ABOMASITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_GALLADITE, Models.GENERATED);
         itemModelGenerator.register(MegamonsItems.CUT_GARCHOMPITE, Models.GENERATED);
-        // TODO: Add Lopunnite
-        // TODO: Add Lucarionite
+        itemModelGenerator.register(MegamonsItems.CUT_LOPUNNITE, Models.GENERATED);
+        itemModelGenerator.register(MegamonsItems.CUT_LUCARIONITE, Models.GENERATED);
         // Gen 5
-        // TODO: Add Audinite
+        itemModelGenerator.register(MegamonsItems.CUT_AUDINITE, Models.GENERATED);
         // Gen 6
-        // TODO: Add Diancite
+        itemModelGenerator.register(MegamonsItems.CUT_DIANCITE, Models.GENERATED);
         // Gen 7+
 
         // MegaCuffItem
