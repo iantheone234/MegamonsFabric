@@ -37,42 +37,42 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
                 .add(MegamonsItems.CUT_VENUSAURITE)
                 // Gen 2
                 .add(MegamonsItems.CUT_AMPHAROSITE)
-                // TODO: Add Heracroite
-                // TODO: Add Houndoominite
+                .add(MegamonsItems.CUT_HERACRONITE)
+                .add(MegamonsItems.CUT_HOUNDOOMINITE)
                 .add(MegamonsItems.CUT_SCIZORITE)
                 .add(MegamonsItems.CUT_STEELIXITE)
                 .add(MegamonsItems.CUT_TYRANITARITE)
                 // Gen 3
-                // TODO: Add Absolite
-                // TODO: Add Aggronite
-                // TODO: Add Altarianite
+                .add(MegamonsItems.CUT_ABSOLITE)
+                .add(MegamonsItems.CUT_AGGRONITE)
+                .add(MegamonsItems.CUT_ALTARIANITE)
                 .add(MegamonsItems.CUT_BANETTITE)
-                // TODO: Add Blazikenite
-                // TODO: Add Cameruptite
+                .add(MegamonsItems.CUT_BLAZIKENITE)
+                .add(MegamonsItems.CUT_CAMERUPTITE)
                 .add(MegamonsItems.CUT_GARDEVOIRITE)
                 .add(MegamonsItems.CUT_GLALITITE)
-                // TODO: Add Latiasite
-                // TODO: Add Latiosite
+                .add(MegamonsItems.CUT_LATIASITE)
+                .add(MegamonsItems.CUT_LATIOSITE)
                 .add(MegamonsItems.CUT_MAWILITE)
-                // TODO: Add Manechtite
-                // TODO: Add Medichamite
-                // TODO: Add Metagrossite
+                .add(MegamonsItems.CUT_MANECTITE)
+                .add(MegamonsItems.CUT_MEDICHAMITE)
+                .add(MegamonsItems.CUT_METAGROSSITE)
                 // TODO: Add Rayquazite
                 .add(MegamonsItems.CUT_SABLENITE)
-                // TODO: Add Salamencite
-                // TODO: Add Sceptilite
+                .add(MegamonsItems.CUT_SALAMENCITE)
+                .add(MegamonsItems.CUT_SCEPTILITE)
                 .add(MegamonsItems.CUT_SHARPEDONITE)
-                // TODO: Add Swampertite
+                .add(MegamonsItems.CUT_SWAMPERTITE)
                 // Gen 4
-                // TODO: Add Abomasite
+                .add(MegamonsItems.CUT_ABOMASITE)
                 .add(MegamonsItems.CUT_GALLADITE)
                 .add(MegamonsItems.CUT_GARCHOMPITE)
-                // TODO: Add Lopunnite
-                // TODO: Add Lucarionite
+                .add(MegamonsItems.CUT_LOPUNNITE)
+                .add(MegamonsItems.CUT_LUCARIONITE)
                 // Gen 5
-                // TODO: Add Audinite
+                .add(MegamonsItems.CUT_AUDINITE)
                 // Gen 6
-                // TODO: Add Diancite
+                .add(MegamonsItems.CUT_DIANCITE)
                 // Gen 7+
 
                 ;
@@ -216,8 +216,8 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
 
         getOrCreateTagBuilder(ModTags.Items.GEN2_CUT_MEGASTONES)
                 .add(MegamonsItems.CUT_AMPHAROSITE)
-                // TODO: Add Heracronite
-                // TODO: Add Houndoominite
+                .add(MegamonsItems.CUT_HERACRONITE)
+                .add(MegamonsItems.CUT_HOUNDOOMINITE)
                 .add(MegamonsItems.CUT_SCIZORITE)
                 .add(MegamonsItems.CUT_STEELIXITE)
                 .add(MegamonsItems.CUT_TYRANITARITE)
@@ -226,44 +226,44 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
 
 
         getOrCreateTagBuilder(ModTags.Items.GEN3_CUT_MEGASTONES)
-                // TODO: Add Absolite
-                // TODO: Add Aggronite
-                // TODO: Add Altarianite
+                .add(MegamonsItems.CUT_ABSOLITE)
+                .add(MegamonsItems.CUT_AGGRONITE)
+                .add(MegamonsItems.CUT_ALTARIANITE)
                 .add(MegamonsItems.CUT_BANETTITE)
-                // TODO: Add Blazikenite
-                // TODO: Add Cameruptite
+                .add(MegamonsItems.CUT_BLAZIKENITE)
+                .add(MegamonsItems.CUT_CAMERUPTITE)
                 .add(MegamonsItems.CUT_GARDEVOIRITE)
                 .add(MegamonsItems.CUT_GLALITITE)
-                // TODO: Add Latiasite
-                // TODO: Add Latiosite
+                .add(MegamonsItems.CUT_LATIASITE)
+                .add(MegamonsItems.CUT_LATIOSITE)
                 .add(MegamonsItems.CUT_MAWILITE)
-                // TODO: Add Manechtite
-                // TODO: Add Medichamite
-                // TODO: Add Metagrossite
+                .add(MegamonsItems.CUT_MANECTITE)
+                .add(MegamonsItems.CUT_MEDICHAMITE)
+                .add(MegamonsItems.CUT_METAGROSSITE)
                 // TODO: Add Rayquazite
                 .add(MegamonsItems.CUT_SABLENITE)
-                // TODO: Add Salamencite
-                // TODO: Add Sceptilite
+                .add(MegamonsItems.CUT_SALAMENCITE)
+                .add(MegamonsItems.CUT_SCEPTILITE)
                 .add(MegamonsItems.CUT_SHARPEDONITE)
-                // TODO: Add Swampertite
+                .add(MegamonsItems.CUT_SWAMPERTITE)
                 ;
 
         getOrCreateTagBuilder(ModTags.Items.GEN4_CUT_MEGASTONES)
-                // TODO: Add Abomasite
+                .add(MegamonsItems.CUT_ABOMASITE)
                 .add(MegamonsItems.CUT_GALLADITE)
                 .add(MegamonsItems.CUT_GARCHOMPITE)
-                // TODO: Add Lopunnite
-                // TODO: Add Lucarionite
+                .add(MegamonsItems.CUT_LOPUNNITE)
+                .add(MegamonsItems.CUT_LUCARIONITE)
                 ;
 
         getOrCreateTagBuilder(ModTags.Items.GEN5_CUT_MEGASTONES)
-        // TODO: Add Audinite
+        .add(MegamonsItems.CUT_AUDINITE)
         ;
 
 
         getOrCreateTagBuilder(ModTags.Items.GEN6_CUT_MEGASTONES)
         // Gen 6
-        // TODO: Add Diancite
+        .add(MegamonsItems.CUT_DIANCITE)
         ;
 
 
