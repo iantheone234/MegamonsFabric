@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "megamons:cut_galladite",
-    "megamons:cut_garchompite"
+    "megamons:cut_garchompite",
+    "megamons:cut_abomasite",
+    "megamons:cut_lopunnite",
+    "megamons:cut_lucarionite"
   ]
 }
